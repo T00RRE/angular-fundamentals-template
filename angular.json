@@ -76,5 +76,8 @@
         }
       }
     }
+  },
+  "cli": {
+    "analytics": "f9d85fe1-ddd1-4e73-ada7-9fd52fbc66f4"
   }
 }
